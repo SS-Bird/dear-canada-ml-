@@ -15,7 +15,7 @@ chapter_id,date,sentence,neutral,positive,negative
 1,October 1,Harry likes to hear about bombs and such.,1,0,0
 1,May 16,It was the first time it had been just the two of us since England.,1,1,0
 1,May 16,"Dad woke me up early and said, “Shhhh, keep your eyes closed.” Then he put on my shoes.",1,0,0
-1,March,"isn’t spring in Saskatchewan, it is still blinking cold.)",0,0,1
+1,March,"isn’t spring in Saskatchewan, it is still blinking cold.",0,0,1
 1,Mars,The noisy family moved out of number 107.,1,0,0
 1,March 25,I wish I’d never found the darn poem.,1,0,0
 1,August 29,(Do parents like saying no?),1,0,0
@@ -31,7 +31,7 @@ chapter_id,date,sentence,neutral,positive,negative
 1,February 16,Now I smell like Miss Hutchinson.,1,0,0
 1,May 18,I was a bit scared because I have never seen a Chinese person before and in Magnet magazine all the Chinese men have long moustaches and long knives.,0,0,1
 1,August 18,"He called her a steady, reliable school horse.",1,0,0
-1,December 17,I think colours would really help with arithmetic drills.),1,0,0
+1,December 17,I think colours would really help with arithmetic drills.,1,0,0
 1,May 20,It is much harder than it looks.,1,0,0
 1,July 16,Elizabeth and I were so mad that we could hardly keep quiet.,1,0,0
 1,December 20,"“I think that my brother Alf Jones has turned out to be a bit of a bounder!” “Is there any more fruitcake?” Weatherall minor, the fat boy, enquired hopefully.",1,0,0
