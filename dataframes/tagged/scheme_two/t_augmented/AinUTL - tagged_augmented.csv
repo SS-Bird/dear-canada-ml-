@@ -1,4 +1,4 @@
-book_name,chapter,date,sentence,version,neutral,positive,negative,immigration
+book_name,chapter_id,date,sentence,version,neutral,positive,negative,immigration
 AinUTL,,,"By the time the letter reached France, I would be wed.",original,0,1,1,1
 AinUTL,,,"By the time my letter arrived in France, I would already be married.",aug_1,0,1,1,1
 AinUTL,,,The letter would reach France long after I had been wed.,aug_2,0,1,1,1
